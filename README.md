@@ -2,6 +2,20 @@
 
 Esta lista contém 100 ideias de projetos web simples que podem ajudar os desenvolvedores a aprimorar suas habilidades. Sinta-se à vontade para escolher qualquer uma delas como seu próximo projeto pessoal ou para praticar suas habilidades de programação.
 
+## Sobre o Repositório
+
+Bem-vindo ao "Awesome Ideas para Projetos Web"! Este repositório foi criado com o objetivo de ser uma fonte de inspiração e motivação para desenvolvedores de todos os níveis de experiência. Aqui, você encontrará uma coleção de 100 ideias brilhantes de projetos web simples, perfeitas para aprimorar suas habilidades de programação, expandir seu portfólio ou simplesmente se divertir codificando.
+
+### Por que este repositório?
+
+- **Inspiração Infinita:** Às vezes, tudo o que você precisa é de uma ideia para começar. Este repositório oferece uma ampla variedade de conceitos para estimular sua criatividade.
+
+- **Aprendizado Contínuo:** Independentemente do seu nível de habilidade, esses projetos podem ser adaptados para desafiar você e ajudá-lo a aprender algo novo.
+
+- **Portfólio Diversificado:** À medida que você conclui projetos, pode adicioná-los ao seu portfólio, demonstrando suas habilidades a potenciais empregadores ou clientes.
+
+- **Comunidade de Desenvolvedores:** Este repositório também serve como um espaço para compartilhar suas realizações, colaborar com outros desenvolvedores e trocar ideias.
+
 
 
 1. **Lista de Tarefas:** Crie um aplicativo para gerenciar tarefas pendentes.

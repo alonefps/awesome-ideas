@@ -1,6 +1,6 @@
 # 💡 Awesome Ideas para Projetos Web
 
-Bem-vindo ao "Awesome Ideas para Projetos Web"! Este repositório foi criado com o objetivo de ser uma fonte de inspiração e motivação para desenvolvedores de todos os níveis de experiência. Aqui, você encontrará uma coleção de 100 ideias brilhantes de projetos web simples, perfeitas para aprimorar suas habilidades de programação, expandir seu portfólio ou simplesmente se divertir codificando.
+Bem-vindo ao "Awesome Ideas para Projetos Web"! Este repositório foi criado com o objetivo de ser uma fonte de inspiração e motivação para desenvolvedores de todos os níveis de experiência. Aqui, você encontrará uma coleção de 130 ideias brilhantes de projetos web simples, perfeitas para aprimorar suas habilidades de programação, expandir seu portfólio ou simplesmente se divertir codificando.
 
 ### Por que este repositório?
 

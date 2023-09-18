@@ -214,4 +214,64 @@ Bem-vindo ao "Awesome Ideas para Projetos Web"! Este repositório foi criado com
 
 100. **Plataforma de Compartilhamento de Receitas de Sobremesas:** Compartilhe receitas de sobremesas deliciosas.
 
+101. **Sistema de Autenticação: Desenvolva um sistema de autenticação seguro para aplicativos web.**
+
+102. **API de Gerenciamento de Tarefas: Crie uma API para gerenciar tarefas pendentes.**
+
+103. **Sistema de Reservas de Quartos de Hotel: Permita que os usuários reservem quartos de hotel e acompanhem suas reservas.**
+
+104. **API de Conversão de Moedas: Construa uma API que converta moedas estrangeiras para a moeda local.**
+
+105. **API de Notificação por E-mail: Desenvolva uma API que envie notificações por e-mail aos usuários.**
+
+106. **Sistema de Comentários para Blog: Crie um sistema de comentários robusto para blogs.**
+
+107. **API de Geração de Documentos PDF: Construa uma API que gere documentos PDF personalizados.**
+
+108. **API de Previsão do Tempo: Forneça previsões do tempo atuais e futuras através de uma API.**
+
+109. **Sistema de Gerenciamento de Eventos: Desenvolva um sistema para gerenciar eventos e inscrições.**
+
+110. **API de Recomendação de Filmes: Crie uma API que recomende filmes com base no histórico do usuário.**
+
+111. **Sistema de Gerenciamento de Estoque: Construa um sistema para gerenciar inventários de produtos.**
+
+112. **API de Autenticação de Dois Fatores: Implemente autenticação de dois fatores para melhor segurança.**
+
+113. **Sistema de Gerenciamento de Tarefas de Equipe: Desenvolva um sistema para equipes colaborarem em projetos.**
+
+114. **API de Análise de Dados: Crie uma API para análise de dados estatísticos.**
+
+115. **Sistema de Agendamento de Consultas Médicas: Permita que pacientes agendem consultas médicas online.**
+
+116. **API de Chat em Tempo Real: Implemente uma API de chat em tempo real para aplicativos web.**
+
+117. **Sistema de Gerenciamento de Pagamentos: Desenvolva um sistema de processamento de pagamentos seguro.**
+
+118. **API de Tradução de Idiomas: Forneça tradução de texto entre idiomas usando uma API.**
+
+119. **Sistema de Gerenciamento de Escolas: Construa um sistema abrangente para escolas.**
+
+120. **API de Análise de Sentimento de Texto: Crie uma API que analise o sentimento de textos.**
+
+121. **Sistema de Reservas de Mesas em Restaurantes: Permita que os clientes reservem mesas em restaurantes.**
+
+122. **API de Gerenciamento de Tarefas de Projeto: Desenvolva uma API para gerenciar tarefas em projetos.**
+
+123. **Sistema de Gerenciamento de Lojas Online: Construa um sistema completo para lojas online.**
+
+124. **API de Rastreamento de Pacotes de Entrega: Forneça informações de rastreamento de entregas via API.**
+
+125. **Sistema de Gerenciamento de Bibliotecas: Crie um sistema para bibliotecas rastrearem seus livros.**
+
+126. **API de Análise de Imagem: Implemente uma API que analise conteúdo em imagens.**
+
+127. **Sistema de Gerenciamento de Veículos: Desenvolva um sistema para rastrear veículos e manutenção.**
+
+128. **API de Paginação e Filtragem de Dados: Crie uma API para facilitar a pesquisa e a paginação de dados.**
+
+129. **Sistema de Gerenciamento de Projetos de TI: Construa um sistema para equipes de desenvolvimento de TI.**
+
+130. **API de Reservas de Voos: Implemente uma API para reservas de voos e itinerários.**
+
 Espero que estas ideias inspirem você a criar projetos web interessantes para aprimorar suas habilidades de desenvolvimento. Divirta-se codificando!
